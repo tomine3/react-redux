@@ -25,6 +25,7 @@
     "@types/react-dom": "^0.14.19",
     "@types/redux": "^3.6.0",
     "@types/redux-thunk": "^2.1.32",
+    "copy-webpack-plugin": "^4.0.1",
     "ts-loader": "^1.2.2",
     "typescript": "^2.0.10",
     "webpack": "^1.13.3",
